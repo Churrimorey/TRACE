@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and outputs
+*.log
+logs/
+final_results/
+intermediate_results/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
