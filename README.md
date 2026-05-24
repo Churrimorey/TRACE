@@ -3,13 +3,15 @@
 This repo contains the implementation used in the paper. TRACE is a task-aware, adaptive self-evolution framework for agentic jailbreaking that proceeds in three stages: task decomposition, task-aware subtask induction, and feedback-driven self-evolution.
 
 ## Demo Video 1
-
+Download: https://anonymous.4open.science/api/repo/TRACE-99B3/file/asset/Stack-based%20Control%20Manipulation.mp4?v=43bcb4c2&download=true
 <div align="center">
   <img src="asset/Stack-based Control Manipulation.gif" alt="Stack-based Control Manipulation" width="100%">
 </div>
 
 
 ## Demo Video 2
+
+Download: https://anonymous.4open.science/api/repo/TRACE-99B3/file/asset/Common-Modulus%20Key%20Compromise.mp4?v=d950f542&download=true
 
 <div align="center">
   <img src="asset/Common-Modulus Key Compromise.gif" alt="Common-Modulus Key Compromise" width="100%">
